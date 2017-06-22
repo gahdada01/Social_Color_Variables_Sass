@@ -1,6 +1,4 @@
-🔖 Created by [Inspirarional Pixels](http://inspirationalpixels.com/). ⚡  Here is the link [Snippets](http://inspirationalpixels.com/snippets)
-
-####Great! :+1: :shipit:
+🔖 Created by [Inspirarional Pixels](http://inspirationalpixels.com/). ⚡  Here is the link [Snippets](http://inspirationalpixels.com/snippets) :+1: :shipit:
 
 # Social Color Variables for Sass
 
