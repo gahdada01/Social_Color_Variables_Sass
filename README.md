@@ -1,7 +1,6 @@
-🔖 Created by [Inspirarional Pixels](http://inspirationalpixels.com/). ⚡  Here is the link [Snippets](http://inspirationalpixels.com/snippets) :+1: :shipit:
+🔖 Created by [Seb Kay](http://sebkay.com/) :shipit: and here is one of his work [Inspirarional Pixels](http://inspirationalpixels.com/). ⚡  Here is the link [Snippets](http://inspirationalpixels.com/snippets) :+1:
 
 # Social Color Variables for Sass
-
 
 ```ruby
 //----- Social Colors
